@@ -8,25 +8,29 @@ We will build "moon landing" project using the following method:
 
 Python
 
-Python + IOT kits
+InnoPEK (Arduino based)
 
 Scratch
 
-Scratch +mBot
+Scratch + mBot
 
-AppInventor2 (Mobile APP)
+Mobile APP (AppInventor2)
 
 3D modelling
 
-Optional method:
-
 ESP32
+
+C++
+
+MicroBits
+
+Javascript
+
+Optional method:
 
 Raspberry Pi kit
 
-Arduino kit
-
-MicroBit
+Playground
 
 other open ideas
 
