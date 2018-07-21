@@ -1,7 +1,9 @@
+#!/bin/python3
 from classes import *
 
 targetPlanet = input("Type the name of a planet:")
 
+targetPlanet = targetPlanet.capitalize()
 #print(targetPlanet)
 
 myPlanet = ourSolarSystem.getPlanet(targetPlanet)
@@ -16,3 +18,12 @@ if myPlanet is not None:
 else:
     print(targetPlanet+ " is not a planet!")
     
+
+
+
+
+
+
+
+
+
