@@ -1,4 +1,4 @@
-This project a demo project using AppInventor2 to create a nice moon landing theme.
+This project a demo project using AppInventor2 to create a nice moon landing theme, created by Tiger Peng.
 
 App Inventor for Android is an open-source web application originally provided by Google, and now maintained by the
 Massachusetts Institute of Technology (MIT).
